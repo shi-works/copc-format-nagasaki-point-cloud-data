@@ -5,7 +5,7 @@
 - 色はデフォルトでElevationになっているのでパネルからRGBに変更すると実際の色で表示できる  
 https://viewer.copc.io/?copc=https://xs489works.xsrv.jp/copc-data/open_nagasaki/01ke9821_translated.copc.laz
 
-## COPCの生成方法
+## COPC（Cloud Optimized Point Cloud）の生成方法
 - [pdal 2.5.2](https://pdal.io/en/latest/)
 
 ```
