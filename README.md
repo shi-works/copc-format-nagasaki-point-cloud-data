@@ -22,5 +22,5 @@ pdal translate -i 01ke9821_translated.las -o 01ke9821_translated.copc.laz --writ
 ```
 
 ## COPCの表示
-- 以下のように直接URLを指定してアクセス
+- 以下のように直接URLを指定してアクセス  
 https://viewer.copc.io/?copc=https://www.example.com/xxx.copc.laz
