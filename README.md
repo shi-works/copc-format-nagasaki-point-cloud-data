@@ -21,6 +21,7 @@ pdal info --metadata 01ke9821_translated.las
 pdal translate -i 01ke9821_translated.las -o 01ke9821_translated.copc.laz --writers.copc.forward=all
 ```
 
-## COPCの表示
+## COPC ViewerでCOPCの表示
+- https://viewer.copc.io
 - 以下のように直接URLを指定してアクセス  
 https://viewer.copc.io/?copc=https://www.example.com/xxx.copc.laz
