@@ -27,3 +27,6 @@ pdal translate -i 01ke9821_translated.las -o 01ke9821_translated.copc.laz --writ
 - https://viewer.copc.io
 - 以下のように直接URLを指定してアクセス  
 https://viewer.copc.io/?copc=https://www.example.com/xxx.copc.laz
+
+## Data Source
+https://opennagasaki.nerc.or.jp/
